@@ -1,7 +1,7 @@
 [
   {
-    "name": "First Wallpaper",
-    "url": "https://www.example.com/first-wallpaper.png"
+    "wallsam": "First Wallpaper",
+    "url": "https://raw.githubusercontent.com/Rudra-100/SpringWalls-2/92ef0be16e33491150b719c4c1fe1888d6441af2/wallsam.png"
   },
   {
     "name": "Second Wallpaper",
