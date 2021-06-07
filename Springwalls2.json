@@ -1,21 +1,5 @@
 [
   {
-    "name": "First Wallpaper",
-    "url": "https://raw.githubusercontent.com/Rudra-100/SpringWalls-2/92ef0be16e33491150b719c4c1fe1888d6441af2/wallsam.png"
-  },
-  {
-    "name": "Second Wallpaper",
-    "url": "https://raw.githubusercontent.com/Rudra-100/SpringWalls-2/main/New%20folder/20210315_215429.png"
-  },
-  {
-    "name": "Gud Wallpaper",
-    "url": "https://raw.githubusercontent.com/Rudra-100/SpringWalls-2/main/New%20folder/20210315_215429.png"
-  },
-  {
-    "name": "Bud Wallpaper",
-    "url": "https://raw.githubusercontent.com/Rudra-100/SpringWalls-2/main/New%20folder/20210316_172646.png"
-  },
-  {
     "name": "Art Wall 1",
     "author": "HSM",
     "copyright": "Personal Use",
@@ -28,5 +12,12 @@
     "copyright": "Personal Use",
     "collections": "Artistic",
     "url": "https://raw.githubusercontent.com/Rudra-100/SpringWalls-2/main/New%20folder/Art%20wall%202.png"
+  },
+  {
+    "name": "Art Wall 3",
+    "author": "HSM",
+    "copyright": "Personal Use",
+    "collections": "Artistic",
+    "url": "https://raw.githubusercontent.com/Rudra-100/SpringWalls-2/main/New%20folder/Art%20wall%203.png"
   }
 ]
